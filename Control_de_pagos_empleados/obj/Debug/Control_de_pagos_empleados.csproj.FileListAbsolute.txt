@@ -1,0 +1,11 @@
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\bin\Debug\Control_de_pagos_empleados.exe.config
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\bin\Debug\Control_de_pagos_empleados.exe
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\bin\Debug\Control_de_pagos_empleados.pdb
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.csproj.AssemblyReference.cache
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.frmPago.resources
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.Properties.Resources.resources
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.csproj.GenerateResource.cache
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.csproj.CoreCompileInputs.cache
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.exe
+C:\Users\Misael Beriguete\source\repos\Control_de_pagos_empleados\Control_de_pagos_empleados\obj\Debug\Control_de_pagos_empleados.pdb
